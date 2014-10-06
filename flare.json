@@ -1,0 +1,35 @@
+{
+  "name": "World Series",
+  "children": [
+    {
+      "name": "American League Championship Series Team 1",
+      "children": [
+          {"name": "American League Divisional Series 1", "size": 2}, 
+          {"name": "American League Divisional Series 2", "size": 2} 
+      ]
+    },
+    {
+      "name": "American League Championship Series Team 2",
+      "children": [
+          {"name": "American League Divisional Series 1", "size": 2}, 
+          {"name": "American League Divisional Series 2", "size": 2} 
+      ]
+    },
+    {
+      "name": "National League Championship Series Team 1",
+      "children": [
+          {"name": "National League Division Series 1", "size": 2},
+          {"name": "National League Division Series 2", "size": 2}
+         
+      ]
+    },
+    {
+      "name": "National League Championship Series Team 2",
+      "children": [
+          {"name": "National League Division Series 1", "size": 2},
+          {"name": "National League Division Series 2", "size": 2}
+         
+      ]
+    }
+  ]
+}
